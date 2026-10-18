@@ -114,6 +114,7 @@ Skills that change how the agent plans, answers or decides.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ![stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat&label=%E2%98%85) - Skill that makes agent answers short and direct, with the answer first. _(MIT)_
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) ![stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat&label=%E2%98%85) - Claude skill that writes prompts for other AI tools. _(MIT)_
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ![stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat&label=%E2%98%85) - File-based planning for long agent tasks, so plans survive context resets. _(MIT)_
+- [wu736139669/goal-instruction-writer](https://github.com/wu736139669/goal-instruction-writer) ![stars](https://img.shields.io/github/stars/wu736139669/goal-instruction-writer?style=flat&label=%E2%98%85) - Drafts and audits Codex Goals with acceptance evidence, drift checks, focused verification and stop conditions; the host supplies execution (by the author). _(MIT)_
 
 ## Video
 
