@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "Shaisolaris/solaris-dev-shop",
+    "category": "coll",
+    "description": "Public catalog of 100 SKILL.md files for specialist software, marketing, and operations roles (by the author).",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
   }
 ]
