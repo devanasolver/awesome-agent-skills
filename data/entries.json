@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "wu736139669/goal-instruction-writer",
+    "category": "flow",
+    "description": "Drafts and audits Codex Goals with acceptance evidence, drift checks, focused verification and stop conditions; the host supplies execution (by the author).",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-18"
   }
 ]
