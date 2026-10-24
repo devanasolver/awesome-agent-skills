@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "DarkWorldCoder/market-mirror",
+    "category": "mkt",
+    "description": "Agent skills and MCP tools compare marketing ideas with simulated buyers; model usage can cost money and results need real-customer validation (by the maintainer).",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-24",
+    "last_commit": "2026-10-24"
   }
 ]
