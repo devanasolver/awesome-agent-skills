@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "ELForestBali/editroast-open-skills",
+    "category": "write",
+    "description": "Two Agent Skills for chapter-based manuscript critique and proofreading in Codex or Claude Code; AI model access may cost money. By the author.",
+    "license": "MIT",
+    "verified": "2026-10-25",
+    "last_commit": "2026-10-25"
   }
 ]

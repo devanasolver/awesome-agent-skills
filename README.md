@@ -106,6 +106,8 @@ Skills for prose and fiction.
 - [blader/humanizer](https://github.com/blader/humanizer) ![stars](https://img.shields.io/github/stars/blader/humanizer?style=flat&label=%E2%98%85) - Skill that removes common signs of AI-written text. _(MIT)_
 - [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) ![stars](https://img.shields.io/github/stars/zenstory-ai/oh-story-claudecode?style=flat&label=%E2%98%85) - 13 skills for writing long web novels, with continuity tracking. Docs mix Chinese and English. _(MIT)_
 
+- [ELForestBali/editroast-open-skills](https://github.com/ELForestBali/editroast-open-skills) ![stars](https://img.shields.io/github/stars/ELForestBali/editroast-open-skills?style=flat&label=%E2%98%85) - Two Agent Skills for chapter-based manuscript critique and proofreading in Codex or Claude Code; AI model access may cost money. By the author. _(MIT)_
+
 ## Planning and agent workflow
 
 Skills that change how the agent plans, answers or decides.
