@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "777genius/agent-notifications",
+    "category": "flow",
+    "description": "Skill and plugin for desktop attention and progress alerts in Claude Code and Codex; local setup required, no paid API key (by the author).",
+    "license": "GPL-3.0-or-later",
+    "verified": "2026-10-28",
+    "last_commit": "2026-10-28"
   }
 ]
