@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "Modernlinc/ecommerce-skills",
+    "category": "mkt",
+    "description": "Chinese-first ecommerce task previews with synthetic exercises and reference outputs; complete commercial methods are separate (by the author).",
+    "license": "Custom: limited internal evaluation",
+    "verified": "2026-10-29",
+    "last_commit": "2026-10-29"
   }
 ]
