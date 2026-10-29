@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add Modernlinc/ecommerce-skills public ecommerce task previews; complete commercial methods are separate.
+
 ## 2026-10-17
 
 - First version: 50 verified repos in 11 categories.
