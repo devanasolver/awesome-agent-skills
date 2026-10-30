@@ -104,6 +104,7 @@ Skills that gather, summarize and organize information.
 Skills for prose and fiction.
 
 - [blader/humanizer](https://github.com/blader/humanizer) ![stars](https://img.shields.io/github/stars/blader/humanizer?style=flat&label=%E2%98%85) - Skill that removes common signs of AI-written text. _(MIT)_
+- [lucasbabur/jp-essay](https://github.com/lucasbabur/jp-essay) ![stars](https://img.shields.io/github/stars/lucasbabur/jp-essay?style=flat&label=%E2%98%85) - Claude Code skills for researching, drafting, revising and fact-checking essays (by the author). Requires Claude Code access and paid model usage; the skills are free. _(MIT)_
 - [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) ![stars](https://img.shields.io/github/stars/zenstory-ai/oh-story-claudecode?style=flat&label=%E2%98%85) - 13 skills for writing long web novels, with continuity tracking. Docs mix Chinese and English. _(MIT)_
 
 ## Planning and agent workflow

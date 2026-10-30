@@ -264,6 +264,14 @@
     "last_commit": "2026-10-16"
   },
   {
+    "repo": "lucasbabur/jp-essay",
+    "category": "write",
+    "description": "Claude Code skills for researching, drafting, revising and fact-checking essays (by the author). Requires Claude Code access and paid model usage; the skills are free.",
+    "license": "MIT",
+    "verified": "2026-10-30",
+    "last_commit": "2026-10-27"
+  },
+  {
     "repo": "zenstory-ai/oh-story-claudecode",
     "category": "write",
     "description": "13 skills for writing long web novels, with continuity tracking. Docs mix Chinese and English.",
