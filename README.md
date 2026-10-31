@@ -129,6 +129,7 @@ Let an agent drive a browser, Office files or Google Workspace.
 - [browser-act/skills](https://github.com/browser-act/skills) ![stars](https://img.shields.io/github/stars/browser-act/skills?style=flat&label=%E2%98%85) - Browser automation CLI for agents, with multiple sessions and hand-off to a human when stuck. _(MIT)_
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) ![stars](https://img.shields.io/github/stars/googleworkspace/cli?style=flat&label=%E2%98%85) - One command-line tool for Drive, Gmail, Calendar, Sheets and Docs. Includes agent skills. _(Apache-2.0)_
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ![stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=flat&label=%E2%98%85) - Single-binary tool that lets agents read and edit Word, Excel and PowerPoint files without Office installed. _(Apache-2.0)_
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) ![stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat&label=%E2%98%85) - Test web and mobile apps from coding agents through skills and MCP, with memidex memory, validated self-improvement and run evidence; model or service costs depend on configuration (by the maintainer). _(FSL-1.1-ALv2)_
 
 ## Other awesome lists
 
