@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "vostride/agent-qa",
+    "category": "auto",
+    "description": "Test web and mobile apps from coding agents through skills and MCP, with memidex memory, validated self-improvement and run evidence; model or service costs depend on configuration (by the maintainer).",
+    "license": "FSL-1.1-ALv2",
+    "verified": "2026-10-31",
+    "last_commit": "2026-10-31"
   }
 ]
