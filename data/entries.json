@@ -96,6 +96,14 @@
     "last_commit": "2026-10-15"
   },
   {
+    "repo": "event4u-app/agent-config",
+    "category": "coll",
+    "description": "Skills, rules, slash commands and review personas for coding agents, written once and installed in the native format of Claude Code, Cursor, Copilot, Windsurf, Gemini CLI and other agents. Free to use; optional features such as the multi-model review need your own API keys. (by the author)",
+    "license": "MIT",
+    "verified": "2026-11-01",
+    "last_commit": "2026-11-01"
+  },
+  {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "category": "design",
     "description": "Design guidance skill for building cleaner UI and UX across platforms.",
