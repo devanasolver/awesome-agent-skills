@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added event4u-app/agent-config to Big collections and registries.
+
 ## 2026-10-17
 
 - First version: 50 verified repos in 11 categories.
