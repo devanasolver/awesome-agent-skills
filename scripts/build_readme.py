@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Build README.md from data/entries.json and data/meta.json. Run: python scripts/build_readme.py"""
-import utils.session
 import json, pathlib
 root = pathlib.Path(__file__).resolve().parent.parent
 meta = json.loads((root / "data/meta.json").read_text(encoding="utf-8"))
