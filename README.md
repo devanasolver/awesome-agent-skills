@@ -79,6 +79,7 @@ Skills for search, copy, social and growth.
 - [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) ![stars](https://img.shields.io/github/stars/Bhanunamikaze/Agentic-SEO-Skill?style=flat&label=%E2%98%85) - SEO analysis skill for Antigravity, Codex and Claude, with sub-skills and helper scripts. _(MIT)_
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ![stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat&label=%E2%98%85) - Marketing skills: conversion work, copywriting, SEO, analytics and growth. _(MIT)_
 - [devanasolver/ai-seo-toolkit](https://github.com/devanasolver/ai-seo-toolkit) ![stars](https://img.shields.io/github/stars/devanasolver/ai-seo-toolkit?style=flat&label=%E2%98%85) - Free command-line AI-search audit, keyword ideas and Search Console data. It is a CLI, not a SKILL.md pack. By the maintainer of this list. _(MIT)_
+- [Sequenzy/skills](https://github.com/Sequenzy/skills) ![stars](https://img.shields.io/github/stars/Sequenzy/skills?style=flat&label=%E2%98%85) - Skills for subscriber management, email campaigns, automation sequences and transactional email (by the author); requires a Sequenzy account and API access. _(MIT)_
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ![stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=flat&label=%E2%98%85) - 12 skills for LinkedIn posts, comments and publishing plans. For Claude Code and Codex. _(MIT)_
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) ![stars](https://img.shields.io/github/stars/zubair-trabzada/geo-seo-claude?style=flat&label=%E2%98%85) - SEO skill focused on AI search: citability scoring, AI crawler checks and schema. _(MIT)_
 
@@ -157,7 +158,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One repo per pull request, plain words, 
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver), who also builds [AIRankWP](https://airankwp.com), a WordPress plugin for AI-search visibility. Listings follow the rules in CONTRIBUTING, not ownership.
-
-## Support
-
-If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).

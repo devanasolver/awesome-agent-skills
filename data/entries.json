@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "Sequenzy/skills",
+    "category": "mkt",
+    "description": "Skills for subscriber management, email campaigns, automation sequences and transactional email (by the author); requires a Sequenzy account and API access.",
+    "license": "MIT",
+    "verified": "2026-11-07",
+    "last_commit": "2026-11-06"
   }
 ]
