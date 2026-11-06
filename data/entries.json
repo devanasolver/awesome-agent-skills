@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "blockvectra/agent-quickstart",
+    "category": "know",
+    "description": "Documentation skill for cited BlockVectra RPC and Robinhood Chain answers, with TypeScript/Python examples; docs need no key, Data/account examples need a key. (by the author)",
+    "license": "MIT",
+    "verified": "2026-11-06",
+    "last_commit": "2026-11-06"
   }
 ]

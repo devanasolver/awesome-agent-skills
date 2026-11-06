@@ -93,6 +93,7 @@ Skills for product discovery, strategy and launch.
 
 Skills that gather, summarize and organize information.
 
+- [blockvectra/agent-quickstart](https://github.com/blockvectra/agent-quickstart) ![stars](https://img.shields.io/github/stars/blockvectra/agent-quickstart?style=flat&label=%E2%98%85) - Documentation skill for cited BlockVectra RPC and Robinhood Chain answers, with TypeScript/Python examples; docs need no key, Data/account examples need a key. (by the author) _(MIT)_
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ![stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat&label=%E2%98%85) - Skills that teach an agent to work with Obsidian notes, Markdown, Bases and JSON Canvas. _(MIT)_
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&label=%E2%98%85) - Researches a topic across Reddit, X, YouTube, Hacker News and the web, then summarizes it. _(MIT)_
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) ![stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat&label=%E2%98%85) - Unofficial Python API and agent skill for Google's notebook tool. Unofficial, so it can break. _(MIT)_
