@@ -114,6 +114,7 @@ Skills that change how the agent plans, answers or decides.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ![stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat&label=%E2%98%85) - Skill that makes agent answers short and direct, with the answer first. _(MIT)_
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) ![stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat&label=%E2%98%85) - Claude skill that writes prompts for other AI tools. _(MIT)_
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ![stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat&label=%E2%98%85) - File-based planning for long agent tasks, so plans survive context resets. _(MIT)_
+- [sandbaseai/cli](https://github.com/sandbaseai/cli) ![stars](https://img.shields.io/github/stars/sandbaseai/cli?style=flat&label=%E2%98%85) - Agent skill and local MCP bridge for discovering and calling model and data APIs with a SandBase account (paid usage can apply; by the author). _(Apache-2.0)_
 
 ## Video
 

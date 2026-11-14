@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "sandbaseai/cli",
+    "category": "flow",
+    "description": "Agent skill and local MCP bridge for discovering and calling model and data APIs with a SandBase account (paid usage can apply; by the author).",
+    "license": "Apache-2.0",
+    "verified": "2026-11-14",
+    "last_commit": "2026-11-11"
   }
 ]
