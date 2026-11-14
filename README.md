@@ -119,6 +119,7 @@ Skills that change how the agent plans, answers or decides.
 
 Skills for making videos.
 
+- [klingai-tech/claude-plugin](https://github.com/klingai-tech/claude-plugin) ![stars](https://img.shields.io/github/stars/klingai-tech/claude-plugin?style=flat&label=%E2%98%85) - Claude Code Skills for image and video workflows with Kling; generation uses paid credits. (by a maintainer) _(MIT)_
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) ![stars](https://img.shields.io/github/stars/latent-spaces/brag?style=flat&label=%E2%98%85) - Makes a short launch video of your project with one command. _(MIT)_
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) ![stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft?style=flat&label=%E2%98%85) - Skill for product videos made with Remotion, with shot recipes and a template. For Claude Code and Codex. _(Apache-2.0)_
 
