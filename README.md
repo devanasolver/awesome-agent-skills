@@ -112,6 +112,7 @@ Skills that change how the agent plans, answers or decides.
 
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) ![stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat&label=%E2%98%85) - Runs a structured multi-perspective debate on hard decisions, across Claude Code, Codex, Gemini CLI and OpenCode. _(MIT)_
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ![stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat&label=%E2%98%85) - Skill that makes agent answers short and direct, with the answer first. _(MIT)_
+- [imokokok/Insight](https://github.com/imokokok/Insight) ![stars](https://img.shields.io/github/stars/imokokok/Insight?style=flat&label=%E2%98%85) - Pre-trade safety skills and a paid API for agents to assess supported DeFi actions before execution. (by the author) _(MIT)_
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) ![stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat&label=%E2%98%85) - Claude skill that writes prompts for other AI tools. _(MIT)_
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ![stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat&label=%E2%98%85) - File-based planning for long agent tasks, so plans survive context resets. _(MIT)_
 

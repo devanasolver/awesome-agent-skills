@@ -304,6 +304,14 @@
     "last_commit": "2026-10-16"
   },
   {
+    "repo": "imokokok/Insight",
+    "category": "flow",
+    "description": "Pre-trade safety skills and a paid API for agents to assess supported DeFi actions before execution. (by the author)",
+    "license": "MIT",
+    "verified": "2026-11-14",
+    "last_commit": "2026-11-14"
+  },
+  {
     "repo": "Vincentwei1021/video-shotcraft",
     "category": "video",
     "description": "Skill for product videos made with Remotion, with shot recipes and a template. For Claude Code and Codex.",
