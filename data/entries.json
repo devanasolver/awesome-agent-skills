@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "klingai-tech/claude-plugin",
+    "category": "video",
+    "description": "Claude Code Skills for image and video workflows with Kling; generation uses paid credits. (by a maintainer)",
+    "license": "MIT",
+    "verified": "2026-11-14",
+    "last_commit": "2026-11-06"
   }
 ]

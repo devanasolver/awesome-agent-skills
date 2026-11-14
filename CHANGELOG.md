@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add the official Kling AI Claude Code Skills.
+
 ## 2026-10-17
 
 - First version: 50 verified repos in 11 categories.
