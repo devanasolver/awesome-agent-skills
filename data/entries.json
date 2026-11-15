@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "NikTsy/notebooklm-project-handoff",
+    "category": "know",
+    "description": "Codex skill for reading project handoffs and syncing one Markdown summary to NotebookLM or Google Docs (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-15",
+    "last_commit": "2026-11-15"
   }
 ]
