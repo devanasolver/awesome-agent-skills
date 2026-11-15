@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "inhotel-io/govisit-toolkit",
+    "category": "coll",
+    "description": "A 22-skill toolkit for searching and reading GoVisit's published travel destinations, places, and content (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-15",
+    "last_commit": "2026-11-14"
   }
 ]
