@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "waynehamadi/datacircle-skill",
+    "category": "know",
+    "description": "Find the best GTM APIs. Looks up our benchmark of them at datacircle.dev, no key needed. By the author.",
+    "license": "MIT",
+    "verified": "2026-11-16",
+    "last_commit": "2026-11-11"
   }
 ]
