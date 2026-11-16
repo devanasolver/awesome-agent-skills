@@ -97,6 +97,7 @@ Skills that gather, summarize and organize information.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&label=%E2%98%85) - Researches a topic across Reddit, X, YouTube, Hacker News and the web, then summarizes it. _(MIT)_
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) ![stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat&label=%E2%98%85) - Unofficial Python API and agent skill for Google's notebook tool. Unofficial, so it can break. _(MIT)_
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ![stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=flat&label=%E2%98%85) - Turns a technical book PDF into a Claude Code skill. _(MIT)_
+- [waynehamadi/datacircle-skill](https://github.com/waynehamadi/datacircle-skill) ![stars](https://img.shields.io/github/stars/waynehamadi/datacircle-skill?style=flat&label=%E2%98%85) - Find the best GTM APIs. Looks up our benchmark of them at datacircle.dev, no key needed. By the author. _(MIT)_
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ![stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat&label=%E2%98%85) - Turns docs sites, GitHub repos and PDFs into Claude skills. _(MIT)_
 
 ## Writing
