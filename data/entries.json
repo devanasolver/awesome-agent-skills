@@ -152,6 +152,14 @@
     "last_commit": "2026-07-01"
   },
   {
+    "repo": "kitedotnew/kite-agent-plugins",
+    "category": "design",
+    "description": "Kite design skill plus hosted MCP server for Claude Code, Codex and Cursor: the agent draws editable screens, banners and logos in a shared Kite file. Needs a Kite account (free plan available). (by the author)",
+    "license": "MIT",
+    "verified": "2026-11-25",
+    "last_commit": "2026-11-12"
+  },
+  {
     "repo": "coreyhaines31/marketingskills",
     "category": "mkt",
     "description": "Marketing skills: conversion work, copywriting, SEO, analytics and growth.",
