@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "DeadInternetStudios/100x-engineer-skill",
+    "category": "flow",
+    "description": "Engineering workflow skill and CLI for Claude Code, Cursor and Codex, with formal property checks, second-model review and recorded completion evidence (by the maintainer).",
+    "license": "MIT",
+    "verified": "2026-11-27",
+    "last_commit": "2026-11-27"
   }
 ]
